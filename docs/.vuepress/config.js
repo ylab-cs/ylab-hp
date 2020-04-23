@@ -13,9 +13,9 @@ module.exports = {
     ],
     sidebar: [
       '/about/',
-      '/member',
+      '/member/',
       '/environment/',
-      '/schedule'
+      '/schedule/'
     ],
     search: false
   }
