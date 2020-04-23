@@ -1,6 +1,6 @@
 # 山口研究室HP(VuePress)
 
-![logo](./docs/.vuepress/public/assets/img/logo.png)
+![logo](https://user-images.githubusercontent.com/36836040/80109371-600a8400-85b8-11ea-91f0-30583ce557f1.png)
 
 ## 前提環境
 
