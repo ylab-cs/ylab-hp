@@ -12,6 +12,7 @@ module.exports = {
       { text: '千葉工業大学情報工学科', link: 'http://www.cs.it-chiba.ac.jp/' },
     ],
     search: false,
+    home: true,
     logo: '/assets/img/logo.png'
   }
 }
