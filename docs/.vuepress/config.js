@@ -17,6 +17,8 @@ module.exports = {
       '/environment/',
       '/schedule/'
     ],
-    search: false
+    search: false,
+    home: true,
+    logo: '/assets/img/logo.png'
   }
 }
