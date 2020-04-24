@@ -8,7 +8,7 @@ module.exports = {
     ],
     nav: [
       { text: 'ホーム', link: '/' },
-      { text: '研究室紹介', link: '/about/' },
+      { text: '研究内容', link: '/about/' },
       { text: 'メンバー', link: '/member/' },
       { text: '環境', link: '/environment/' },
       { text: 'スケジュール', link: '/schedule/' },
