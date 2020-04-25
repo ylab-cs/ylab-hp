@@ -35,7 +35,8 @@ https://vuepress.vuejs.org/
 
 ## ビルドと本番デプロイ
 
-ビルドを行うことで`docs/.vuepress/dist`下にHTML/JS/CSSを生成する
+ビルドを行うことで`docs/.vuepress/dist`下にHTML, JS, CSSを生成する
+
 これら生成物を本番環境Webサーバに配置することで本番デプロイとなる
 
 ```bash
